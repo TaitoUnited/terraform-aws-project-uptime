@@ -1,4 +1,4 @@
-# AWS project uptime monitoring
+# AWS uptime monitoring
 
 Provides uptime monitoring for an AWS project.
 
